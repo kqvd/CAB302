@@ -1,0 +1,46 @@
+/** Add icons to toolbar **/
+
+#buttonUndo {
+    -fx-background-image: url(icons/tools/undo.png);
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#buttonToolLine {
+    -fx-background-image: url(icons/tools/line.png);
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#buttonToolPlot {
+    -fx-background-image: url(icons/tools/plot.png);
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#buttonToolRectangle {
+    -fx-background-image: url(icons/tools/rectangle.png);
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#buttonToolPolygon {
+    -fx-background-image: url(icons/tools/polygon.png);
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#buttonToolEllipse {
+    -fx-background-image: url(icons/tools/ellipse.png);
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#buttonToolFill {
+    -fx-background-image: url(icons/tools/fill.png);
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+
+
